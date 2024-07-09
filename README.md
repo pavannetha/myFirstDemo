@@ -1,2 +1,2 @@
 # myFirstDemo
-This is my first demo program
+This is my first demo  repository
